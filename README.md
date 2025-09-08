@@ -21,7 +21,7 @@ A simple countdown timer designed to help you maintain focus during deep work se
 ## 🚀 How to use
 1. **Install dependencies**: `npm install`
 2. **Start the app**: `npx expo start`
-3. **Set your timer** using + and - buttons (max: 99:59)
+3. **Set your timer** using + and - buttons
 4. **Choose a music genre** from the dropdown
 5. **Press Start** and focus on your work
 
