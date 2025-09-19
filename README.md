@@ -1,6 +1,6 @@
 # 🎯 Deep Work Timer
 
-A minimalist React Native timer app for focused work sessions with integrated music streaming.
+A minimalist React Native timer app for focused work sessions with integrated music streaming and a GitHub-style contribution grid to track daily progress.
 
 <div align="center">
 
@@ -16,7 +16,14 @@ A minimalist React Native timer app for focused work sessions with integrated mu
 - **React Native WebView** - Music streaming integration
 
 ## 📱 What is it?
-A simple countdown timer designed to help you maintain focus during deep work sessions. Set your timer, choose background music, and eliminate distractions.
+A simple countdown timer designed to help you maintain focus during deep work sessions. Set your timer, choose background music, and eliminate distractions. Track your daily progress with a GitHub-style contribution grid that visualizes your deep work consistency and helps build productive habits.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/Timer Screenshot.jpg" alt="Timer Screen" width="300" style="margin: 10px;">
+  <img src="assets/Activity Screenshot.jpg" alt="Activity Screen" width="300" style="margin: 10px;">
+</div>
 
 ## 🚀 How to use
 1. **Install dependencies**: `npm install`
@@ -29,10 +36,3 @@ A simple countdown timer designed to help you maintain focus during deep work se
 - **Chill Lofi** - Perfect for concentration and coding
 - **90's Drum & Bass** - Energetic beats for productive sessions
 - **San Andreas Radio** - Nostalgic vibes for creative work
-
-## 🔮 Future To-Dos
-- [ ] Add more music genres
-- [ ] History screen with GitHub-style contribution grid showing daily deep work progress
-- [ ] Push notifications when timer ends
-- [ ] Home screen widget
-- [ ] Lock screen timer display

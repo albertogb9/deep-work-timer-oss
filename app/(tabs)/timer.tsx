@@ -5,7 +5,6 @@ import Playlist from '@/components/playlist';
 export default function Timer(){
     return(
         <View style={styles.container}>
-            <Text style={styles.title}>Deep Work Timer</Text>
             <CustomTimer/>
             <Playlist/>
         </View>
